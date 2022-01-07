@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Repository/static/css/main.75d861ac.chunk.css",
+    "main.js": "/Repository/static/js/main.f518b078.chunk.js",
+    "main.js.map": "/Repository/static/js/main.f518b078.chunk.js.map",
+    "runtime-main.js": "/Repository/static/js/runtime-main.effa57d1.js",
+    "runtime-main.js.map": "/Repository/static/js/runtime-main.effa57d1.js.map",
+    "static/js/2.b042a0e0.chunk.js": "/Repository/static/js/2.b042a0e0.chunk.js",
+    "static/js/2.b042a0e0.chunk.js.map": "/Repository/static/js/2.b042a0e0.chunk.js.map",
+    "static/js/3.60d02d6d.chunk.js": "/Repository/static/js/3.60d02d6d.chunk.js",
+    "static/js/3.60d02d6d.chunk.js.map": "/Repository/static/js/3.60d02d6d.chunk.js.map",
+    "index.html": "/Repository/index.html",
+    "static/css/main.75d861ac.chunk.css.map": "/Repository/static/css/main.75d861ac.chunk.css.map",
+    "static/js/2.b042a0e0.chunk.js.LICENSE.txt": "/Repository/static/js/2.b042a0e0.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/Repository/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.effa57d1.js",
+    "static/js/2.b042a0e0.chunk.js",
+    "static/css/main.75d861ac.chunk.css",
+    "static/js/main.f518b078.chunk.js"
+  ]
+}
